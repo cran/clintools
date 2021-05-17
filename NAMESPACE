@@ -1,0 +1,7 @@
+importFrom("stats", "aggregate", "ave", "cor",
+           "complete.cases","sd","fft","approx",
+           "coef","confint")
+
+export(clinmon)
+export(TFA)
+export(ortable)
