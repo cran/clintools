@@ -44,7 +44,15 @@ na_as_mean = TRUE)
 
 \item{output}{Select what the output should be. \code{'table'} results in a dataframe with values for the three frequencies defined by Claassen et al. [1]; \code{'long'} results in a dataframe with the results in a long format; \code{'plot'} results in a daframe which can help plot gain, phase and coherence; \code{'plot-peak'} results in a dataframe, which can be used to validate the cyclic average, and \code{'raw'} results in a nested list with results primarily for debugging. Default is \code{'table'}. (\code{string})}
 
-\item{vlf, lf, hf, detrend, spectral_smoothing, coherence2_thresholds, apply_coherence2_threshold, remove_negative_phase, remove_negative_phase_f_cutoff, normalize_ABP, normalize_CBFV, window_type, window_length, overlap, overlap_adjust, na_as_mean}{See \strong{TFA-parameters}}
+\item{vlf, lf, hf, detrend, spectral_smoothing, coherence2_thresholds}{See \strong{TFA-parameters}}
+
+\item{apply_coherence2_threshold, remove_negative_phase}{See \strong{TFA-parameters}}
+
+\item{remove_negative_phase_f_cutoff, normalize_ABP}{See \strong{TFA-parameters}}
+
+\item{normalize_CBFV, window_type, window_length, overlap}{See \strong{TFA-parameters}}
+
+\item{overlap_adjust, na_as_mean}{See \strong{TFA-parameters}}
 }
 \value{
 \code{TFA()} returns a dataframe depending on the output selected. \code{'table'} results in a dataframe with values for the three frequencies defined by Claassen et al. [1]; \code{'long'} results in a dataframe with the results in a long format; \code{'plot'} results in a daframe which can help plot gain, phase and coherence; \code{'plot-peak'} results in a dataframe, which can be used to validate the cyclic average, and \code{'raw'} results in a nested list with results primarily for debugging.

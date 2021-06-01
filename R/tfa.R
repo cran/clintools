@@ -45,7 +45,15 @@
 #'
 #' @param output Select what the output should be. `'table'` results in a dataframe with values for the three frequencies defined by Claassen et al. \[1\]; `'long'` results in a dataframe with the results in a long format; `'plot'` results in a daframe which can help plot gain, phase and coherence; `'plot-peak'` results in a dataframe, which can be used to validate the cyclic average, and `'raw'` results in a nested list with results primarily for debugging. Default is `'table'`. (`string`)
 #'
-#' @param vlf,lf,hf,detrend,spectral_smoothing,coherence2_thresholds,apply_coherence2_threshold,remove_negative_phase,remove_negative_phase_f_cutoff,normalize_ABP,normalize_CBFV,window_type,window_length,overlap,overlap_adjust,na_as_mean See **TFA-parameters**
+#' @param vlf,lf,hf,detrend,spectral_smoothing,coherence2_thresholds See **TFA-parameters**
+#'
+#' @param apply_coherence2_threshold,remove_negative_phase See **TFA-parameters**
+#'
+#' @param remove_negative_phase_f_cutoff,normalize_ABP See **TFA-parameters**
+#'
+#' @param normalize_CBFV,window_type,window_length,overlap See **TFA-parameters**
+#'
+#' @param overlap_adjust,na_as_mean See **TFA-parameters**
 #'
 #' @details
 #'
