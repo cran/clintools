@@ -1,7 +1,7 @@
 Type: Package
 Package: clintools
 Title: Tools for Clinical Research
-Version: 0.8.1
+Version: 0.8.2
 Authors@R: c(
     person("Markus Harboe", "Olsen", email = "oel@oelfam.com", role = c("cre","aut")),
     person("Christian", "Riberholt", role = "aut"),
@@ -25,11 +25,11 @@ RoxygenNote: 7.1.1
 Suggests: knitr, rmarkdown
 Imports: signal (>= 0.7-6)
 NeedsCompilation: no
-Packaged: 2021-06-01 10:58:51 UTC; MOLS0212
+Packaged: 2021-06-30 08:24:33 UTC; MOLS0212
 Author: Markus Harboe Olsen [cre, aut],
   Christian Riberholt [aut],
   Ronan Berg [aut],
   Kirsten Moeller [aut]
 Maintainer: Markus Harboe Olsen <oel@oelfam.com>
 Repository: CRAN
-Date/Publication: 2021-06-01 13:00:06 UTC
+Date/Publication: 2021-06-30 08:40:09 UTC

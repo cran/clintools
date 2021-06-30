@@ -38,7 +38,7 @@ na_as_mean = TRUE)
 
 \item{fast}{Select if you want the data to aggregated resulting in a faster, but perhaps more imprecise run, in Hz. Default is \code{50} (\code{numeric})}
 
-\item{raw_data}{Select \code{TRUE} if the data is raw and cyclic mean should be calculated. \strong{NB:} this function have not been validated, why validated methods for calculating cyclic mean are preferred. Default is \code{FALSE} (\code{boolian})}
+\item{raw_data}{Select \code{TRUE} if the data is raw and cyclic mean should be calculated. \strong{NB:} this function have not been validated, why validated methods for calculating cyclic mean are preferred. Only 1 period can be analysed using raw_data. Default is \code{FALSE} (\code{boolian})}
 
 \item{interpolation}{Select the number of beats which should be interpolated. Default is up to \code{3} beats and \code{0} results in no interpolation. (\code{numeric})}
 
