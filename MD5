@@ -1,11 +1,11 @@
-21492d4037d58b2161628a5b83ad581d *DESCRIPTION
+737e8d08b06a4e249d118ac9e065de80 *DESCRIPTION
 fc98fdc87bb4cfd1167100f6da11c861 *LICENSE
-0de2692e4c315fae832fab4594a911df *NAMESPACE
-f574a2710453ceeabe0aa8d1ff3a5c24 *NEWS.md
+8fa5ca74e5a4fb84185fff778934e266 *NAMESPACE
+12835cd90de3cb67291aadca63189d81 *NEWS.md
 43daca94dd3894908f5b68e4d955421c *R/clinmon.R
 fc9766f5c49ac404625074b4d2dbfc9a *R/clinmon_helper.R
 e045e68766c1dc17988ba261f7dffe45 *R/data.R
-1af684b9d9cc62c15ec3179c9a847c02 *R/iscus.R
+e650999b3a4ee7fc06f6305658347223 *R/iscus.R
 c126faf4b5a26484bd9d4d1c5d55b096 *R/ortable.R
 34f459d2c0359c410c07f27f12e29f90 *R/pupillometer.R
 3fc046e7173aa852246c99eab6795f1d *R/tfa.R
@@ -17,6 +17,7 @@ c5c7a09181e0c6af30c3addbdd237410 *data/tfa_sample_data.rda
 d1e645bddfaeb88181156a9a8002ea46 *man/clinmon.Rd
 00fcbc894fc0f142a7ea02e8d6aba77c *man/df.data1000.Rd
 4336fb8a20d7c73fc05bbf6024c4aaec *man/df.deleter.Rd
+c9dbf619c38d2656fb19c69244459d56 *man/iscus.Rd
 342948f66022f0f5823864d620e21552 *man/ortable.Rd
 675821bb015ea79fa2c86c3bf524c602 *man/testdata10.Rd
 45989b7e7854138df5b78609ebd657b1 *man/tfa_sample_data.Rd
