@@ -8,7 +8,7 @@
 #'
 #' @usage ortable(x, d, d_p, intercept, simple)
 #'
-#' @param x Utlises the output from a glm-function. (`glm-output`)
+#' @param x Utilises the output from a glm-function. (`glm-output`)
 #'
 #' @param d Refers to the number of digits for odds ratio and confidence intervals. Default is `2`. (`numeric`)
 #'
@@ -26,6 +26,8 @@
 #'         var=sample(0:100,100,replace=TRUE))
 #' ortable(glm(outcome ~ ., data=df))
 #'
+#' @importFrom stats coef
+#' @importFrom stats confint
 #' @export
 #
 # ==== FUNCTION ====
