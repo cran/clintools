@@ -1,12 +1,12 @@
-b729c6364bece6376091634961675638 *DESCRIPTION
+d8f3f99759aa29fc974db5fc562fcb74 *DESCRIPTION
 fc98fdc87bb4cfd1167100f6da11c861 *LICENSE
 207c4ea981ce558774d289ac90cf43b9 *NAMESPACE
-9a91ce85456414472e90e0ccbbee9d3e *NEWS.md
+94e8d1f0c760589b7516c83974a61c01 *NEWS.md
 1fe1ac9e9bc9e4372c28b7905039ae72 *R/PLR3000.R
 e46199c2908f0e4ca6c10b5aebca1058 *R/clinmon.R
 f0631b619c0396abff2c622b9b52a501 *R/clinmon_helper.R
 e045e68766c1dc17988ba261f7dffe45 *R/data.R
-20dc2f98d0dfa73182dfcacb3e6d5280 *R/dilations.R
+4a6c5dc1c32e06c710f36741a8965700 *R/dilations.R
 66d2658b4af4ac74f5528f25f52ae982 *R/iscus.R
 63b7dc549fb856810e28a6599359c6f4 *R/ortable.R
 26f9a5661a7d6cf4bf75816b602a25de *R/rrGcomp.R
@@ -21,7 +21,7 @@ f758e9faa0a60cf0058930997fccb902 *man/PLR3000.Rd
 81ca987341529016cdc5a8f04ee40437 *man/clinmon.Rd
 00fcbc894fc0f142a7ea02e8d6aba77c *man/df.data1000.Rd
 4336fb8a20d7c73fc05bbf6024c4aaec *man/df.deleter.Rd
-ac4cbeaf5faf845fb82d6e17d562b10c *man/dilations.Rd
+aff20af5f928cc29d649e33202ac3ac5 *man/dilations.Rd
 709e20628cee774cd9aee07479a4498d *man/iscus.Rd
 419f022484b71d9008a1dd8aaeafe750 *man/ortable.Rd
 6694ab4a2203cf4b66d1a0084e22a7bd *man/rrGcomp.Rd
