@@ -1,7 +1,7 @@
 Type: Package
 Package: clintools
 Title: Tools for Clinical Research
-Version: 0.9.10
+Version: 0.9.10.1
 Authors@R: c(
     person("Markus Harboe", "Olsen", email = "oel@oelfam.com", role = c("cre","aut")),
     person("Christian", "Riberholt", role = "ctb"),
@@ -31,7 +31,7 @@ Imports: signal (>= 0.7-6), xml2 (>= 1.3.2), lme4 (>= 1.1-27.1),
         (>= 1.2.1), dplyr (>= 1.1.2), survival (>= 3.4-0), pander (>=
         0.6.5)
 NeedsCompilation: no
-Packaged: 2023-12-04 22:31:54 UTC; MOLS0212
+Packaged: 2023-12-09 22:19:24 UTC; MOLS0212
 Author: Markus Harboe Olsen [cre, aut],
   Christian Riberholt [ctb],
   Ronan Berg [ctb],
@@ -40,4 +40,4 @@ Author: Markus Harboe Olsen [cre, aut],
   Aksel Karl Georg Jensen [ctb]
 Maintainer: Markus Harboe Olsen <oel@oelfam.com>
 Repository: CRAN
-Date/Publication: 2023-12-05 00:00:05 UTC
+Date/Publication: 2023-12-11 18:40:02 UTC
